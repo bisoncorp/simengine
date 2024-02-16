@@ -2,6 +2,6 @@ package simengine
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Print("Hello World!\n")
 }
