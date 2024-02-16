@@ -3,5 +3,5 @@ package simengine
 import "fmt"
 
 func Test() {
-	fmt.Print("Hello World!\n")
+	fmt.Print("Hello orld!\n")
 }
